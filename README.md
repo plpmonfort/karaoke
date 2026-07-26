@@ -157,8 +157,9 @@ python3 seed_database.py --force
 ## Things the app does
 
 - **Auto-detects the phase** from the time of day
-- **3 or 5 picks** per roll, with a slot-machine spin and confetti
-- **Swap** any single card without rerolling the others
+- **3 or 5 picks** per roll, with a slot-machine spin, confetti and fireworks
+- **Swipe a card left or right** to throw it away and get another one — or use
+  the **Swap** button. Either way the other cards stay put.
 - **"Sang it"** marks a song done — it drops to the back of the queue and is
   remembered between visits (stored locally in your browser, nothing leaves it)
 - **Find karaoke** opens a YouTube search for that track
